@@ -106,6 +106,8 @@ coverage
 ############################
 
 .env
+docker-compose.yaml
+.dockerignore
 license.txt
 exports
 .strapi
